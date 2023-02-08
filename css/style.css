@@ -56,6 +56,7 @@ main{
 }
 .perfume-info{
     padding: 0px 23px 10px 23px;
+    align-self: center;
 }
 .item-name{
     font-size: small;
